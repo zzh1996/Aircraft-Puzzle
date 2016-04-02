@@ -1,0 +1,37 @@
+Help - Aircraft Puzzle
+
+[Rules]
+
+Two players compete with each other. Each of the players places three 'aircrafts' in a 10x10 field. Aircrafts can be in four directions. Then they take turns to guess where the other's three 'aircraft heads' are, until one finds out all the three 'aircraft heads' and wins.
+
+An aircraft looks like this:
+··√··
+×××××
+··×··
+··×··
+·×××·
+
+[Operations]
+
+When you enter the main menu, click to choose an item.
+
+PRACTICE MODE: No competitions. Guess a puzzle and you can see the answer whenever you want.
+PLAY WITH AI: Compete with your computer.
+TWO PLAYERS: Compete with your friend.
+TOOLS: Solve a situation for possible solutions or see possibility distribution map.
+HELP: See this help file.
+
+When you are designing a puzzle, click to place an aircraft or right click to rotate. Click 'Use Code' to generate a puzzle using a code. Click 'Random' to generate a puzzle randomly. Click 'Complete' to comfirm.
+
+A code can be a stage number or aircraft location characters.
+eg.
+1234 - Stage NO.1234
+00U05D50L - Aircraft1 at (0,0) towards up side, Aircraft2 at (0,5) towards down side, Aircraft3 at (5,0) towards left side.
+
+When you are playing with your computer, you can choose a difficulty at the right bottom.
+
+When you are playing, click to make a guess or click 'New Game' to start a new game.
+
+When you are using TOOLS, click or right click to change the status of a square. Draw your puzzle situation and click 'Solve' to see all the possible solutions. Click 'Possibility View' to see the possibility of 'aircraft heads' in each square.
+
+by 负一的平方根 April,2014
